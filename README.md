@@ -13,3 +13,19 @@ Additionally, you can install the `requirements.txt` which contains `matplotlib`
 
 To run this project, I recommend using Jupyter Notebook.
 You can run the notebook by opening the `project.ipynb` file in Jupyter Notebook.
+
+## Personal Notes
+
+Firstly, I want to point out that this is my first Data Science project.
+I am really happy with the results.
+I have learned a lot about the Python programming language and the Jupyter Notebook environment.
+I also want to point out that this is not a data interpretation project.
+This is a project that focuses on the use of Python and Jupyter Notebook to analyze a dataset.
+
+
+## Contributing
+
+With the previous in mind, I am not looking for contributions to this project.
+I will accept suggestions and minor fixes, but I will not accept any major changes.
+
+This is a finished project.
