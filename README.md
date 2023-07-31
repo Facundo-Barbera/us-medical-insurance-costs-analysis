@@ -39,6 +39,23 @@ If you are using PyCharm, then you can execute the notebook directly in the edit
 
 **_If you don't know what you are doing, refer to the note on installation._**
 
+# Project Description
+
+For this project, you will be investigating a medical insurance costs dataset in a .csv file using the Python skills that you've developed. This dataset and its parameters will seem familiar if you've done any of the previous Python projects in the data science path.
+
+However, you're now tasked with working with the actual information in the dataset and performing your own independent analysis on real-world data! We will not be providing step-by-step instructions on what to do, but we will provide you with a framework to structure your exploration and analysis.For this project, you will be investigating a medical insurance costs dataset in a .csv file using the Python skills that you've developed. This dataset and its parameters will seem familiar if you've done any of the previous Python projects in the data science path.
+
+However, you're now tasked with working with the actual information in the dataset and performing your own independent analysis on real-world data! We will not be providing step-by-step instructions on what to do, but we will provide you with a framework to structure your exploration and analysis.
+
+# Project Objectives
+
+- Work locally on your own computer
+- Import a dataset into your program
+- Analyze a dataset by building out functions or class methods
+- Use libraries to assist in your analysis
+- Optional: Document and organize your findings
+- Optional: Make predictions about a dataset’s features based on your findings
+
 ## Personal Notes
 
 Firstly, I want to point out that this is my first Data Science project.
