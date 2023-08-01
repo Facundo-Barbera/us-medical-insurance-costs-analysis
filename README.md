@@ -1,4 +1,4 @@
-# U.S.-Medical-Insurance-Costs
+# U.S. Medical Insurance Costs
 This project, provided by Codecademy as part of the Data Science Foundations course, explores a dataset of medical insurance costs for individuals in the U.S. using statistical analysis techniques in Python 3.10 and Jupyter Notebook.
 
 ## Installation
