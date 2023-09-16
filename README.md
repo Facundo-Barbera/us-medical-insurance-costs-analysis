@@ -1,5 +1,8 @@
-# U.S. Medical Insurance Costs
-This project, provided by Codecademy as part of the Data Science Foundations course, explores a dataset of medical insurance costs for individuals in the U.S. using statistical analysis techniques in Python 3.10 and Jupyter Notebook.
+# Exploratory Data Analysis of U.S. Medical Insurance Costs
+This project,
+provided by Codecademy as part of the Data Science Foundations course,
+explores a dataset of medical insurance costs for individuals in the U.S.
+using statistical analysis techniques in Python 3.11 and Jupyter Notebook.
 
 ## Installation
 
@@ -10,11 +13,11 @@ This directory contains the reports that I have generated using the Jupyter Note
 These are HTML files that can be opened in any browser thus don't require Jupyter Notebook to be installed.
 Installing Jupyter can be troublesome, so I recommend opening the reports in the `reports` directory.
 
-If you want to run the project yourself, you will need to install any of following:
-- Python 3.10+ and Jupyter
+If you want to run the project yourself, you will need to install any of the following:
+- Python 3.11+ and Jupyter
 - Conda environment(s)
 
-Additionally, you can install the `requirements.txt` which contains `matplotlib` package.
+You do need to install the dependencies in the `requirements.txt` file if you want to run the notebook.
 
 You can install the `requirements.txt` file by running the following command in your terminal:
 ```bash
@@ -41,11 +44,22 @@ If you are using PyCharm, then you can execute the notebook directly in the edit
 
 # Project Description
 
-For this project, you will be investigating a medical insurance costs dataset in a .csv file using the Python skills that you've developed. This dataset and its parameters will seem familiar if you've done any of the previous Python projects in the data science path.
+For this project,
+you will be investigating a medical insurance costs dataset in a .csv file
+using the Python skills that you've developed.
+This dataset and its parameters will seem familiar
+if you've done any of the previous Python projects in the data science path.
 
-However, you're now tasked with working with the actual information in the dataset and performing your own independent analysis on real-world data! We will not be providing step-by-step instructions on what to do, but we will provide you with a framework to structure your exploration and analysis.For this project, you will be investigating a medical insurance costs dataset in a .csv file using the Python skills that you've developed. This dataset and its parameters will seem familiar if you've done any of the previous Python projects in the data science path.
-
-However, you're now tasked with working with the actual information in the dataset and performing your own independent analysis on real-world data! We will not be providing step-by-step instructions on what to do, but we will provide you with a framework to structure your exploration and analysis.
+However,
+you're now tasked with working with the actual information in the dataset
+and performing your own independent analysis on real-world data!
+We will not be providing step-by-step instructions on what to do,
+but we will provide you with a framework to structure your exploration and analysis.
+For this project,
+you will be investigating a medical insurance costs dataset in a .csv file
+using the Python skills that you've developed.
+This dataset and its parameters will seem familiar
+if you've done any of the previous Python projects in the data science path.
 
 # Project Objectives
 
@@ -63,7 +77,6 @@ I am really happy with the results.
 I have learned a lot about the Python programming language and the Jupyter Notebook environment.
 I also want to point out that this is not a data interpretation project.
 This is a project that focuses on the use of Python and Jupyter Notebook to analyze a dataset.
-
 
 ## Contributing
 
