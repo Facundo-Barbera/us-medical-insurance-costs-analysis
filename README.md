@@ -14,10 +14,14 @@ These are HTML files that can be opened in any browser thus don't require Jupyte
 Installing Jupyter can be troublesome, so I recommend opening the reports in the `reports` directory.
 
 If you want to run the project yourself, you will need to install any of the following:
-- Python 3.11+ and Jupyter
+- Python 3.11+
 - Conda environment(s)
 
-You do need to install the dependencies in the `requirements.txt` file if you want to run the notebook.
+Both of these installations require Jupyter to be installed,
+but Conda evniroments might have them installed by default
+depending on your enviroment configuration.
+
+You need to install the dependencies in the `requirements.txt` file if you want to run the notebook.
 
 You can install the `requirements.txt` file by running the following command in your terminal:
 ```bash
