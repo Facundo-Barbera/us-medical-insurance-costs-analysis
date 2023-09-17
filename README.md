@@ -4,14 +4,15 @@ provided by Codecademy as part of the Data Science Foundations course,
 explores a dataset of medical insurance costs for individuals in the U.S.
 using statistical analysis techniques in Python 3.11 and Jupyter Notebook.
 
-## Installation
+## Before You Begin
 
-Note:
 Before doing anything!
 Please note that there is a `reports` directory in this project.
 This directory contains the reports that I have generated using the Jupyter Notebook environment.
 These are HTML files that can be opened in any browser thus don't require Jupyter Notebook to be installed.
 Installing Jupyter can be troublesome, so I recommend opening the reports in the `reports` directory.
+
+## Installation
 
 If you want to run the project yourself, you will need to install any of the following:
 - Python 3.11+
@@ -27,24 +28,24 @@ You can install the `requirements.txt` file by running the following command in 
 ```bash
 pip install -r requirements.txt
 ```
-(Tip:
-You can write `pip install -r` and then drag
-and drop the `requirements.txt` file into the terminal to automatically write the path to the file)
+_(Tip: You can write `pip install -r` and then drag
+and drop the `requirements.txt` file into the terminal 
+to automatically write the path to the file)_
 
 ## Usage
 
-After installing Conda or Jupyter and other dependencies,
-you can run the project by running the following command in your terminal:
+I strongly recommend you first `cd` into the project directory before running the project,
+since it might be difficult to find the notebook otherwise.
+
+You can run the project (the Jupyter Notebook) by running the following command in your console:
 ```bash
 jupyter notebook
 ```
+This should open a browser window with the Jupyter Notebook environment on the directory you ran the command in.
+You will have to select the notebook on the page that opens.
 
-I strongly recommend you first `cd` into the project directory before running the command above,
-since it might be difficult to find the notebook otherwise.
 If you are using PyCharm, then you can execute the notebook directly in the editor.
-(Very cool, huh?)
-
-**_If you don't know what you are doing, refer to the note on installation._**
+_(I like to work like this, but I still recommend the browser version)_
 
 # Project Description
 
@@ -74,17 +75,32 @@ if you've done any of the previous Python projects in the data science path.
 - Optional: Document and organize your findings
 - Optional: Make predictions about a dataset’s features based on your findings
 
-## Personal Notes
+## Contribution Guidelines
 
-Firstly, I want to point out that this is my first Data Science project.
-I am really happy with the results.
-I have learned a lot about the Python programming language and the Jupyter Notebook environment.
-I also want to point out that this is not a data interpretation project.
-This is a project that focuses on the use of Python and Jupyter Notebook to analyze a dataset.
+### Project Evolution
 
-## Contributing
+When I initially developed this project, I believed it was finished.
+However, since that first "completion" I have grown both in knowledge and skills, and day to day I learn more.
+I want to keep coming back to this project for some time to reflect about it and implement new,
+or better ways to the EDA.
 
-With the previous in mind, I am not looking for contributions to this project.
-I will accept suggestions and minor fixes, but I will not accept any major changes.
+### Your Contribution
 
-This is a finished project.
+I welcome contributions to this project with open arms.
+While I once considered it "finished," I now recognize the value of community input.
+Here's how you can get involved:
+
+#### Reporting Issues
+
+If you encounter any problems or have suggestions for improvements, please create issues.
+
+#### Pull Requests
+
+If you wish to contribute directly, consider the following:
+
+- **Fixing Specific Issues:** You're encouraged to submit pull requests for resolving identified issues.
+  
+- **Enhancing Content:** However, adding new content isn't accepted.
+  I want to do new implementations myself as they might be part of a learning process.
+
+
