@@ -1635,6 +1635,11 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 
 /* stylelint-disable selector-max-class, selector-max-compound-selectors */
 
+/**
+* TODO: come up with non css-hack solution for showing the busy icon on top
+*  of the close icon
+* CSS for complex behavior of close icon of tabs in the main area tabbar
+*/
 .lm-DockPanel-tabBar
   .lm-TabBar-tab.lm-mod-closable.jp-mod-dirty
   > .lm-TabBar-tabCloseIcon
@@ -9522,17 +9527,6 @@ Additionally, the information obtained in the previous section (<a href="#univar
 </div>
 </div>
 </div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=e821f51f77fd8d57">
-<div class="jp-Cell-inputWrapper" tabindex="0">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h4 id="Interpretation">Interpretation<a class="anchor-link" href="#Interpretation">¶</a></h4><p>The distribution for the <code>charges</code> of each unique value for the <code>region</code> variable appears to be even with a slightly higher rate for the <code>southeast</code> and <code>northeast</code> values. The outliers of each value are also fairly similar, except for <code>southwest</code> where there looks to be a higher concentration of them. Finally, the 75th percentile of the <code>southeast</code> seems to have a much higher value than the others, this could be due to the higher density of data points that are present in this category (see: <a href="#bar-charts">Bar Charts for categorical variables</a>). The correlation of 0.06 indicates a very weak relationship between the two variables.</p>
-</div>
-</div>
-</div>
-</div>
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=de38e8c4d543c76">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -9578,13 +9572,13 @@ Additionally, the information obtained in the previous section (<a href="#univar
 <tr>
 <td><code>smoker</code></td>
 <td><code>charges</code> versus <code>smoker</code></td>
-<td>0.79</td>
+<td>0.66</td>
 <td>Strong</td>
 </tr>
 <tr>
 <td><code>region</code></td>
 <td><code>charges</code> versus <code>region</code></td>
-<td>0.06</td>
+<td>0.04</td>
 <td>Very weak</td>
 </tr>
 </tbody>
