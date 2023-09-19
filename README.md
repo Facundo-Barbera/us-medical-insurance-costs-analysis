@@ -75,32 +75,11 @@ if you've done any of the previous Python projects in the data science path.
 - Optional: Document and organize your findings
 - Optional: Make predictions about a dataset’s features based on your findings
 
-## Contribution Guidelines
+## Project Evolution
 
-### Project Evolution
-
-When I initially developed this project, I believed it was finished.
-However, since that first "completion" I have grown both in knowledge and skills, and day to day I learn more.
-I want to keep coming back to this project for some time to reflect about it and implement new,
-or better ways to the EDA.
-
-### Your Contribution
-
-I welcome contributions to this project with open arms.
-While I once considered it "finished," I now recognize the value of community input.
-Here's how you can get involved:
-
-#### Reporting Issues
-
-If you encounter any problems or have suggestions for improvements, please create issues.
-
-#### Pull Requests
-
-If you wish to contribute directly, consider the following:
-
-- **Fixing Specific Issues:** You're encouraged to submit pull requests for resolving identified issues.
-  
-- **Enhancing Content:** However, adding new content isn't accepted.
-  I want to do new implementations myself as they might be part of a learning process.
+This project is now considered complete.
+Although there is a lot of room for improvement,
+I have decided to move on to other projects.
+I might come back to this project in the future to implement some of the ideas I have for it.
 
 
