@@ -1,4 +1,4 @@
-# Exploratory Data Analysis of U.S. Medical Insurance Costs
+# Data Analysis of U.S. Medical Insurance Costs
 This project,
 provided by Codecademy as part of the Data Science Foundations course,
 explores a dataset of medical insurance costs for individuals in the U.S.
@@ -74,12 +74,3 @@ if you've done any of the previous Python projects in the data science path.
 - Use libraries to assist in your analysis
 - Optional: Document and organize your findings
 - Optional: Make predictions about a dataset’s features based on your findings
-
-## Project Evolution
-
-This project is now considered complete.
-Although there is a lot of room for improvement,
-I have decided to move on to other projects.
-I might come back to this project in the future to implement some of the ideas I have for it.
-
-
