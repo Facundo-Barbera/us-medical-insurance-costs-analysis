@@ -1,4 +1,4 @@
-# Exploratory Data Analysis of U.S. Medical Insurance Costs
+# Data Analysis of U.S. Medical Insurance Costs
 This project,
 provided by [Codecademy](https://www.codecademy.com/) as part of the Data Science Foundations course,
 explores a dataset of medical insurance costs for individuals in the U.S.
@@ -114,5 +114,5 @@ The dataset contains the following columns:
 
 This project was originally provided to me by Codecademy, as part of the Data Science Foundations course.
 While I completed the tasks of this project, I decided to take it a step further and create multiple reports.
-The main idea is to expand further from the EDA, into a more statistical analysis of the dataset, and evntually
+The main idea is to expand further from the EDA, into a more statistical analysis of the dataset, and eventually
 modeling the data.
