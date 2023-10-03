@@ -1,4 +1,4 @@
-# Data Analysis of U.S. Medical Insurance Costs
+# U.S. Medical Insurance Costs Data Analysis and Modeling
 This project,
 provided by [Codecademy](https://www.codecademy.com/) as part of the Data Science Foundations course,
 explores a dataset of medical insurance costs for individuals in the U.S.
